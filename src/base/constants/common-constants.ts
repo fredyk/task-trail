@@ -1,0 +1,1 @@
+export const DEFAULT_STALE_MILLISECONDS = 1000 * 60 * 5;
